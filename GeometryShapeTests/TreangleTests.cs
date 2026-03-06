@@ -47,7 +47,7 @@ namespace GeometryShapeTests
         }
 
         [Theory]
-        [InlineData(0, 4, 5)]
+        [InlineData(3, 4, 5)]
         public void ToString_Triangle(double a, double b, double c)
         {
 

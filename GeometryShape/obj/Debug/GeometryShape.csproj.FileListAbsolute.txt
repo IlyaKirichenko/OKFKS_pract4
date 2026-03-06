@@ -1,0 +1,6 @@
+C:\Users\st310-07\Documents\OKFKS_pract4\GeometryShape\bin\Debug\GeometryShape.dll
+C:\Users\st310-07\Documents\OKFKS_pract4\GeometryShape\bin\Debug\GeometryShape.pdb
+C:\Users\st310-07\Documents\OKFKS_pract4\GeometryShape\obj\Debug\GeometryShape.csproj.AssemblyReference.cache
+C:\Users\st310-07\Documents\OKFKS_pract4\GeometryShape\obj\Debug\GeometryShape.csproj.CoreCompileInputs.cache
+C:\Users\st310-07\Documents\OKFKS_pract4\GeometryShape\obj\Debug\GeometryShape.dll
+C:\Users\st310-07\Documents\OKFKS_pract4\GeometryShape\obj\Debug\GeometryShape.pdb

@@ -18,10 +18,11 @@ namespace GeometryShape
             {
                 throw new ArgumentException("Стороны должны быть положительными");
             }
-            if (sideA + sideB > sideC || sideA + sideC > sideB || sideB + sideC > sideA)
+            if (sideA + sideB <= sideC || sideA + sideC <= sideB || sideB + sideC <= sideA)
             {
                 throw new ArgumentException("Такой треугольник не может существовать");
             }
+
             SideA = sideA;
             SideB = sideB;
             SideC = sideC;
